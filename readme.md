@@ -1,6 +1,8 @@
 # Overview
 This repository presents the parameters of the models used in the study titled "Comparative Analysis of Deep Neural Networks and Machine Learning for Detecting Malicious Domain Name Registrations". The study evaluates various models to enhance the detection of malicious domain name registrations. 
 
+This study utilizes several pretrained models such as such as BERT, RoBERTa, ALBERT, MobileBERT and combinations with MLP, alongside conventional machine learning models with TFIDF vectorizer. Notably, cuML (RAPIDS) was employed for efficient execution of machine learning tasks, leveraging GPU acceleration for enhanced performance in handling large-scale datasets and complex models. The aim is to enhance performance in detecting malicious domain name registrations through fair competition. Each model category, including pretrained models and conventional ML, is tested separately to evaluate their effectiveness.
+
 ## Textual Models
 
 | Model        | Training Parameters                                                                                        |
