@@ -1,4 +1,4 @@
-## Overview
+# Overview
 This repository presents the parameters of the models used in the study titled "Comparative Analysis of Deep Neural Networks and Machine Learning for Detecting Malicious Domain Name Registrations". The study evaluates various models to enhance the detection of malicious domain name registrations. 
 
 ## Textual Models
