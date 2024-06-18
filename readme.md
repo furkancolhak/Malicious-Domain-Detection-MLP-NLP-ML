@@ -19,6 +19,7 @@ This study utilizes several pretrained models such as such as BERT, RoBERTa, ALB
 
 | Model    | Training Parameters                                                                                        |
 |----------|-----------------------------------------------------------------------------------------------------------|
+| MLP | `batch_size = 500, BASE_LR = 0.005, OPT = 'adam'`                                                           |
 | RF       | `n_estimators=50, min_samples_split=2, min_samples_leaf=1, max_features='auto', max_depth=10, bootstrap=True` |
 | SVM      | `C=10`                                                                                                    |
 | KNN      | `weights='uniform', n_neighbors=9, metric='minkowski'`                                                    |
